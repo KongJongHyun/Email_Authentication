@@ -1,0 +1,40 @@
+<div class="col-md-7">
+  <table class="table table-striped">
+<thead>
+  <tr>
+    <th>Date</th>
+    <th>Content</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>05/15</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>05/22</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>05/29</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>06/05</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>06/12</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>06/19</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>06/26</td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+</div>
