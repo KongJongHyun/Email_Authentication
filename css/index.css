@@ -1,0 +1,38 @@
+html, body { height: 100%; }
+.header { width: 100%; height: 20%;
+		background: black; }
+
+.aside1 { width: 10%; height: 70%; float: left;
+    background: white; }
+.section {  padding:2%; width: 70%; height: auto; float: left;
+		background: white; }
+.aside { width: 10%; height: 70%; float: right;
+		background: white; }
+.footer { width: 100%; height: 15%; clear: both;
+		background: grey; }
+
+
+
+
+
+
+header{
+  background: :black;
+  color:white;
+  padding-top:30px;
+  min-height:70px;
+  /*border-bottom:white 5px solid;*/
+}
+
+
+
+
+
+
+footer{
+  padding:20px;
+  margin-top:20px;
+  color:white;
+  background-color:#46CCFF;
+  text-align:center;
+}
